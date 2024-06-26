@@ -1,0 +1,20 @@
+{
+  "name": "extension-template-svelte",
+  "title": "Extension Template Svelte",
+  "description": "This is a custom UI demo.",
+  "icon": "logo.svg",
+  "commands": [
+    {
+      "name": "hello",
+      "title": "Hello Svelte",
+      "mode": "custom-ui",
+      "framework": "svelte"
+    },
+    {
+      "name": "count",
+      "title": "Svelte Count",
+      "mode": "custom-ui",
+      "framework": "svelte"
+    }
+  ]
+}

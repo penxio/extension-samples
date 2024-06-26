@@ -1,0 +1,20 @@
+{
+  "name": "extension-template-vue",
+  "title": "Extension Template Vue",
+  "description": "This is a custom UI demo.",
+  "icon": "logo.svg",
+  "commands": [
+    {
+      "name": "hello",
+      "title": "Hello Vue",
+      "mode": "custom-ui",
+      "framework": "vue"
+    },
+    {
+      "name": "count",
+      "title": "Vue Count",
+      "mode": "custom-ui",
+      "framework": "vue"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "extension-template-solid",
+  "title": "Extension Template Solid",
+  "description": "This is a custom UI demo.",
+  "icon": "logo.svg",
+  "commands": [
+    {
+      "name": "hello",
+      "title": "Hello Solid",
+      "mode": "custom-ui",
+      "framework": "solid"
+    },
+    {
+      "name": "count",
+      "title": "Solid Count",
+      "mode": "custom-ui",
+      "framework": "solid"
+    }
+  ]
+}
